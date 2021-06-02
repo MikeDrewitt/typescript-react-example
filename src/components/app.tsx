@@ -9,7 +9,7 @@ import NotFoundPage from 'components/pages/notFoundPage'
 const App = () => (
   <Router history={history}>
     <Switch>
-      <Route path='/' component={HomePage} />
+      <Route exact path='/' component={HomePage} />
       <Route component={NotFoundPage} />
     </Switch>
   </Router>

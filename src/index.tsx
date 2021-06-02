@@ -7,7 +7,7 @@ import { Provider } from 'react-redux'
 import store from 'redux/store'
 
 // Root Component
-import App from 'components/root/app'
+import App from 'components/app'
 
 // Global CSS
 import 'assets/global.scss'
