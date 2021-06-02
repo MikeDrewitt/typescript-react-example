@@ -8,3 +8,11 @@
   - [Babel](https://webpack.js.org/loaders/babel-loader/)
   - [Sass](https://github.com/webpack-contrib/sass-loader)
 - [Node](https://nodejs.org/en/)
+
+```
+npm install
+```
+
+```
+npm start
+```
