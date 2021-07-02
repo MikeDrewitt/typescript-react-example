@@ -1,4 +1,4 @@
-# Insight Client
+# Example React Typescript Project
 
 ## Application Technologies
 
