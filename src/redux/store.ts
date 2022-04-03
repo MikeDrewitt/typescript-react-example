@@ -12,4 +12,8 @@ function configureStore() {
   return store
 }
 
-export default configureStore()
+const store = configureStore()
+
+export type AppDispatch = typeof store.dispatch
+
+export default store
